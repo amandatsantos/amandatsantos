@@ -3,7 +3,7 @@
 - 👩🏽‍💻 ingressando na area de desenvolvimento 
 - 🌱 aprendendo python
 - ✨ Pronomes: ela/dela
-- 
+
 ##
 <div>
   <a href="https://github.com/amandatsantos">
