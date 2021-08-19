@@ -11,7 +11,10 @@
     </div>
   
 <div style = "display: inline_block"><br>
-  <img align="center" alt="amanda-Python" heigt="10" whidth="10" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg">
+  <img align="center" alt="amanda-Python" heigt="30" whidth="40"  src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+   <img align="center" alt="amanda-HTML" heigt="30" whidth="40" src="https://img.icons8.com/windows/48/fa314a/html-5.png"/>
+  <img aling= "center" alt = "amanda-CSS" heigth="30" whidtg="40" src="https://img.icons8.com/windows/48/4a90e2/css3-logo.png"/>
+  <img aling= "center" alt = "amanda-JS" heigth="20" whidtg="10" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   </div>
   
   ##
