@@ -15,9 +15,7 @@
   
 <div style = "display: inline_block"><br>
   <img align="auto" alt="amanda-Python" heigt="30" whidth="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img align="auto" alt="amanda-HTML" heigt="30" whidth="40" src="https://img.icons8.com/windows/48/fa314a/html-5.png"/>
-  <img aling= "auto" alt = "amanda-CSS" heigth="30" whidtg="40" src="https://img.icons8.com/windows/48/4a90e2/css3-logo.png"/>
-  <img aling= "auto" alt = "amanda-JS" heigth="30" whidtg="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+
   </div>
   
   ##
