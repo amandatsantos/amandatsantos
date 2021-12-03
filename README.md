@@ -1,7 +1,7 @@
 ### Olá! Eu sou Amanda Santos
 
 - 👩🏽‍💻 ingressando na area de desenvolvimento 
-- 🌱 aprendendo python
+- 🌱 python
 - ✨ Pronomes: ela/dela
 
 ##
