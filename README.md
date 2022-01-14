@@ -16,12 +16,7 @@ Hey whats up? welcome to my profile! my name is Amanda - 🇧🇷
 
 
 ##
-<div>
-  <a href="https://github.com/amandatsantos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandatsantos&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandatsantos&layout=compact&langs_count=16&theme=maroongold"/>
- </div>
-  
+
  <h4> Find me : </h4>
     <div>
     <a href="https://www.linkedin.com/in/amanda-tavares-santos-6b9bb9204/" target = "blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"> </a>
