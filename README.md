@@ -10,7 +10,7 @@ Hey whats up? welcome to my profile! my name is Amanda - 🇧🇷
 <br>
 - 👩🏽‍💻 BackEnd developer
 <br>
-- django
+- learning flask
 <br>
 - ✨ Pronouns: she/her
 
