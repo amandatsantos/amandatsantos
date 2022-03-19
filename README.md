@@ -27,6 +27,9 @@ Hey whats up? welcome to my profile! my name is Amanda - 🇧🇷
  <h4> Technologies that I know : </h4>
 <div style = "display: inline_block"><br>
   <img align="auto" alt="amanda-Python" heigt="30" whidth="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img align="auto" alt="amanda-html" heigt="30" whidth="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img align="auto" alt="amanda-css" heigt="30" whidth="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img align="auto" alt="amanda-js" heigt="30" whidth="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
   </div>
   
