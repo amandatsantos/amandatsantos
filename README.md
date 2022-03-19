@@ -33,5 +33,7 @@ Hey whats up? welcome to my profile! my name is Amanda - 🇧🇷
   </div>
   
   ##
+  <br>
+  <p align = "center"> <img align="center" src = "https://profile-counter.glitch.me/amandatsantos/count.svg" /></p>
   
   
