@@ -19,7 +19,7 @@ Hey whats up? welcome to my profile! my name is Amanda - 🇧🇷
 
  <h4> Find me : </h4>
     <div>
-    <a href="https://www.linkedin.com/in/amanda-tavares-santos-6b9bb9204/" target = "blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"> </a>
+    <a href="https://www.linkedin.com/in/amanda-tavares-santos-ats/" target = "blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"> </a>
     <a href="mailto: tavaresamandasantos@gmail.com" target = "blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"> </a>
   </div>
 
@@ -35,6 +35,6 @@ Hey whats up? welcome to my profile! my name is Amanda - 🇧🇷
   
   ##
   <br>
-  <p align = "center"> <img align="center" src = "https://profile-counter.glitch.me/amandatsantos/count.svg" /></p>
+
   
   
